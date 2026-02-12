@@ -323,7 +323,7 @@ From the project root directory:
 Using the UI:
 
 ```bash
-python onebeam_agent_runtime/ui/app.py
+python -m onebeam_agent_runtime.ui.app
 ```
 
 Open in browser:
